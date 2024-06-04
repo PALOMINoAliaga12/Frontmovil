@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704279876267",
+    "project_id": "innova-c9aca",
+    "storage_bucket": "innova-c9aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704279876267:android:43dc29b69fa8d28dc4ddee",
+        "android_client_info": {
+          "package_name": "com.palomino.luis.frontmovil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALtJRmkjT4za3zYWI1Y4-kMXQDMV0_I1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
